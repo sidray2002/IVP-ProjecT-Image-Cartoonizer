@@ -1,6 +1,6 @@
 # IVP-ProjecT-Image-Cartoonizer
 
-The Model is present in the model folder which has 2 models: 
+The Model is present in the model folder which has models: 
 1. Which shows indiviual output for each steps
 2. Which shows the original image and output image
 
